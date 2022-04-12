@@ -1,0 +1,11 @@
+.fLabel {
+  position: relative;
+  padding-right: 8em;
+  top: 6px;
+  right: -6em;
+}
+
+.orderCard {
+  position: relative;
+  margin: 1em 0 0 10em;
+}

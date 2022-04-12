@@ -1,0 +1,99 @@
+.orderStatus{
+    top: 2px;
+    position: relative;
+    padding: 2px;
+}
+.MuiTimeline-root {
+    bottom: 1.5em;
+    position: relative;
+    padding: 0px 60px !important;
+}
+.orderDate{
+    left: -59px;
+    position: absolute;
+    font-size: small;
+    width: 88px;
+    color: #bdbdbd;
+}
+.place{
+    width: 26em;
+    font-size: small;
+    position: absolute
+}
+.makeStyles-title-5 {
+    font-size: 14px !important;
+}
+.makeStyles-order-6 {
+    font-size: 12px !important;
+    
+}
+.MuiTypography-body1 {
+    font-size: 0.8rem !important;
+    line-height: 1.5;
+
+}
+.orderDisBtn{
+    /* gap: 1em !important;  */
+}
+.loadNo{
+    flex: 7;
+}
+.cardTop{
+    display: flex;
+    flex-wrap: nowrap;
+
+  }
+  .orderNo{
+    font-size: 14px !important;
+    font-weight: bold !important;
+    color: #bdbdbd !important; 
+    bottom: 1.3em !important;
+    position: relative !important;
+  }
+
+.tags{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.search{
+    flex: 1;
+}
+.filter{
+    flex: 1;
+    margin-right: 1em;
+}
+.tag{
+    flex: 1;
+    
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.spinner{
+    position: relative;
+    top: 20em;
+    display: flex;
+    justify-content: center;
+}
+.orderTab{
+    display: flex;
+}
+.ord1{
+    margin-right: 1em;
+    padding: 2px;
+}
+.DeliveryTab{
+    display: flex;
+}
+.del1{
+    margin-right: 1em;
+}
+.stDiv{
+    padding: 1em;
+}
+.btn1{
+    background-color: #00C0DA !important;
+    color: #FFFFFF !important;
+    margin-right: 1em;
+}

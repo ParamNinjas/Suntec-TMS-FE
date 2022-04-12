@@ -1,0 +1,9 @@
+.cust-container{
+    position: relative;
+    margin: 2em 0 0 12em !important;
+    background-color: white;
+}
+.cust-Add{
+    background-color: #00C0DA !important;
+    color: antiquewhite !important;
+}

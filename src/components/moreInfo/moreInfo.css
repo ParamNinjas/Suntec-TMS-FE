@@ -1,0 +1,52 @@
+.infoDisplay {
+    /* bottom: 5em !important;
+    position: absolute !important;
+    width: 625px; */
+}
+.dash2-con{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1em;
+    padding-bottom: 0;
+}
+.dash2-con > div {
+    flex: 100%; /* or - flex: 0 50% - or - flex-basis: 50% - */
+    /*demo*/
+    margin-bottom: 10px;
+  }
+
+.item{
+    width: 100%;
+}
+.tabs{
+    position: relative;
+    top: 29em;
+}
+.drName{
+    padding-top: 0.5em;
+    padding-bottom: 2em;
+}
+.drList{
+    display: flex;
+    gap: 2em;
+}
+.vhreg{
+    padding-bottom: 2em;
+}
+
+.vhList{
+    display: flex;
+    gap: 2em;  
+}
+.OrderInfo{
+    margin-bottom: 2em;
+}
+.formFields{
+    display: flex;
+}
+.textFields{
+    margin: 1em;
+}
+.tabBtn{
+    margin-left: 3em !important;
+}
